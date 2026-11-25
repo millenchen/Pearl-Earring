@@ -24,9 +24,20 @@ When you **run** it, the terminal fills with a colored ASCII portrait of the gir
 ## 🚀 Run it
 
 ```bash
-git clone https://github.com/yourusername/Pearl-Earring
+git clone https://github.com/millenchen/Pearl-Earring
 cd Pearl-Earring
-python3 pearl_earring.py
+pip install Pillow
+```
+
+Then download the painting — save it as `1665_Girl_with_a_Pearl_Earring.jpg` in the project folder:
+👉 [Download from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg)
+
+```bash
+# static ASCII art (shaped source code)
+python3 run.py
+
+# smooth animated wave effect
+python3 animate.py
 ```
 
 Requires a terminal with ANSI true-color support (macOS Terminal, iTerm2, Windows Terminal, most Linux terminals).
