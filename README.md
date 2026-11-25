@@ -1,6 +1,8 @@
 # 🎨 Pearl Earring
 
 > *"The code is the art. The art is the code."*
+> 
+> vibecoded with [Kiro](https://kiro.dev) — I had the vision, AI wrote the pixels 🤝
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -68,6 +70,10 @@ Public domain
 
 Code concept inspired by the viral TikTok ASCII code art trend.
 
+## 🤝 How this was made
+
+Vibecoded with [Kiro](https://kiro.dev) — I brought the idea, AI brought the pixels. Pair programming with Vermeer energy.
+
 ---
 
-*Made with ♥ and Python*
+*Made with ♥, Python, and a little AI magic*
